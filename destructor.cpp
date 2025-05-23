@@ -20,6 +20,6 @@ public:
 int main()
 {
     person p1("anu");
-    person p2("anush");
+    person p2("rubbish");
 
 }

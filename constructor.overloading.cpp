@@ -29,6 +29,6 @@ public:
 };
 int main(){
 
-    area a1(10,20);
+    area a1(10);
     a1.result_area();
 }
